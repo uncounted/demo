@@ -7,6 +7,6 @@ import org.springframework.boot.runApplication
 class DemoApplication
 
 fun main(args: Array<String>) {
-    println("hi")
+    println("hello")
     runApplication<DemoApplication>(*args)
 }
